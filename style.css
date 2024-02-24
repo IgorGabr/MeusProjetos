@@ -1,0 +1,260 @@
+.button1 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/netflix.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button2 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/TikTok.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button3 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/hbo.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button4 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/disney.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button5 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/crunchy.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button6 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/Shein.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button7 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/spotify.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button8 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/instagram.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button9 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/YouTube.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button10 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/shopee.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button11 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/Ali.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button12 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/friv.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button13 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/roblox.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button14 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/linkedin.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.button15 {
+  display: inline-block;
+  padding: 110px 110px;
+  margin: 10px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-image: url('img/canva.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-image: url('img/fundo.jpg');
+  background-size: cover;
+}
+
